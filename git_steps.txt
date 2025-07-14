@@ -1,0 +1,13 @@
+launch CMD
+Create Git Repo:
+clone repo: >>git clone <repo url>
+change directory: go to clone directory by cd command from CMD: >>cd <directorypath>
+To Luanch VS code CMD: >>code .
+Create All experiemntion in VS code
+VS code:
+Launch new teriminal
+add changes: >>git add .
+commit changes:>>git commit -m "Message"
+To Check Status:>>git status
+to push changes:>>git push -u origin main
+
