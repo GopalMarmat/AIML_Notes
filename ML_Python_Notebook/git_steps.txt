@@ -11,8 +11,3 @@ commit changes:>>git commit -m "Message"
 To Check Status:>>git status
 to push changes:>>git push -u origin main
 
-VS_Code:
-Launch new teriminal
-create virtual environment:>> python -m venv myenv
-To Activate virtual environment:>> myenv\Scripts\activate
-
