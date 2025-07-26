@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Hp/Documents/AIML/AIML_Notes/predictive_maintenance_project/notebooks/mlruns/483532063891414384/04f4167d997a42b6865707fecb830cbd/artifacts
+end_time: 1753518005577
+entry_point_name: ''
+experiment_id: '483532063891414384'
+lifecycle_stage: active
+run_id: 04f4167d997a42b6865707fecb830cbd
+run_name: dtc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753518005388
+status: 3
+tags: []
+user_id: Hp
