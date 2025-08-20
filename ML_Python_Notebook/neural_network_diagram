@@ -1,0 +1,22 @@
+digraph {
+	rankdir=LR
+	I0 [label="Input 1" shape=circle]
+	I1 [label="Input 2" shape=circle]
+	I2 [label="Input 3" shape=circle]
+	H0 [label="Hidden 1" shape=circle]
+	H1 [label="Hidden 2" shape=circle]
+	H2 [label="Hidden 3" shape=circle]
+	O [label=Output shape=circle]
+	I0 -> H0
+	I0 -> H1
+	I0 -> H2
+	I1 -> H0
+	I1 -> H1
+	I1 -> H2
+	I2 -> H0
+	I2 -> H1
+	I2 -> H2
+	H0 -> O
+	H1 -> O
+	H2 -> O
+}
